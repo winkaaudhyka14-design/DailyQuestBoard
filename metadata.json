@@ -1,0 +1,6 @@
+{
+  "name": "Daily Quest Board",
+  "description": "Sebuah papan misi petualang harian (RPG Daily Quest Board) untuk mengorganisasikan tugas harian dengan konsep gamifikasi menarik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
